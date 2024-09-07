@@ -28,13 +28,15 @@ In this project, you can play Tic-Tac-Toe using multiple strategies:
     ![2](https://github.com/user-attachments/assets/59faebad-7c34-4c95-abfc-a7a45f30e230)
 
 
-## 🎮 Gameplay
-- Gameplay Two Human Players Example
-[Gameplay Example](https://github.com/user-attachments/assets/de4416db-5779-41cd-a7a1-7cdb45ad5d93)
+## 📹 Project Demo(Two Human Players)
+
+[Click here to watch the project demo](https://github.com/user-attachments/assets/de4416db-5779-41cd-a7a1-7cdb45ad5d93)
 
 
-- Gameplay Unbeatable AI Example
-[Gameplay Example](https://github.com/user-attachments/assets/c4b3ba9e-cd37-4b88-8e06-931a1af300ac)
+## 📹 Project Demo(Unbeatable AI)
+
+[Click here to watch the project demo](https://github.com/user-attachments/assets/c4b3ba9e-cd37-4b88-8e06-931a1af300ac)
+
 
 
 
